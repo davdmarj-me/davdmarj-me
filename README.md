@@ -31,5 +31,5 @@ I'm an Analytics Engineer with a experience as a Logistics Information Analyst.
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [Insert your LinkedIn URL here]
-- **Email:** [Insert your email address here]
+- **LinkedIn:** [www.linkedin.com/in/davidmartinezjaime]
+- **Email:** [davidmtz.jaime@gmail.com]
